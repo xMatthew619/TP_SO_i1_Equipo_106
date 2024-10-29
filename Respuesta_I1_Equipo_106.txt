@@ -9,10 +9,10 @@ GAMMA: Yilali Elio
 Respuestas:
 
 a) ¿ALFA ve los datos que cargaron los demás en su repositorio?
-
+Si, puedo ver los datos que cargaron los demas.
 
 b) ¿Si ALFA agrega un archivo los demás integrantes lo ven?
-
+Si, los integrantes pueden verlo.
 
 c) ¿Si BETA agrega un archivo los demás integrantes lo ven?
 
