@@ -15,10 +15,10 @@ b) ¿Si ALFA agrega un archivo los demás integrantes lo ven?
 Si, los integrantes pueden verlo.
 
 c) ¿Si BETA agrega un archivo los demás integrantes lo ven?
-
+Si, pueden verlo y modificarlo si desean
 
 d) ¿De qué forma se comunicaron ustedes?
-
+Utilizando github, como si nos pasaramos una pelota
 
 e) ¿Cuál es la mejor forma de comunicarse entre ustedes dentro de GitHub?
 
